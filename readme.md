@@ -1,6 +1,6 @@
-<p align="center">Seattle, WA</p>
-<p align="center">Phone: 206-607-9118</p>
-<p align="center">Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a></p>
+<p align="left">Seattle, WA</p>
+<p align="left">Phone: 206-607-9118</p>
+<p align="left">Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a></p>
 
 <hr size="5">
 
