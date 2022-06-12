@@ -4,38 +4,39 @@
 
 <hr size="5">
 
+
 <h2 align="center">Cloud Certifcations</h2>
 
 <p align="center">
-    <img src="azure-administrator-associate-600x600 (1).png" height="150">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50029287" height="150">
-    <img src="aws-certified-solutions-architect-associate.png" height="150">
-    <img src="aws-certified-sysops-administrator-associate.png" height="150">
+    <img src="azure-administrator-associate-600x600 (1).png" height="100">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50029287" height="100">
+    <img src="aws-certified-solutions-architect-associate.png" height="100">
+    <img src="aws-certified-sysops-administrator-associate.png" height="100">
 </p>
 
 <h2 align="center">CompTIA Certifications</h2>
 
 <p align="center">
-    <img src="Aplus Logo Certified CE.png" height="150">
-    <img src="NetworkPlus Logo Certified CE.png" height="150">
-    <img src="SecurityPlus Logo Certified CE.png" height="150">
-    <img src="Linux+ ce certified logo.jpg" height="150">
+    <img src="Aplus Logo Certified CE.png" height="100">
+    <img src="NetworkPlus Logo Certified CE.png" height="100">
+    <img src="SecurityPlus Logo Certified CE.png" height="100">
+    <img src="Linux+ ce certified logo.jpg" height="100">
 </p>
 
 <p align="center">
-    <img src="Cybersecurity CompTIA Secure Infrastructure Specialist - CSIS logo.jpg" height="150">
-    <img src="Infrastructure  CompTIA IT Operations Specialist - CIOS logo.jpg" height="150">
-    <img src="Infrastructure  CompTIA Systems Support Specialist - CSSS logo.jpg" height="150">
-    <img src="Infrastructure CompTIA Linux Network Professional -CLNP logo.jpg" height="150">
+    <img src="Cybersecurity CompTIA Secure Infrastructure Specialist - CSIS logo.jpg" height="100">
+    <img src="Infrastructure  CompTIA IT Operations Specialist - CIOS logo.jpg" height="100">
+    <img src="Infrastructure  CompTIA Systems Support Specialist - CSSS logo.jpg" height="100">
+    <img src="Infrastructure CompTIA Linux Network Professional -CLNP logo.jpg" height="100">
 </p>
     
 <h2 align="center">Other Certifcations</h2>
 
 <p align="center">
-    <img src="mta-introduction-to-programming-using-python-certified-2021.png" height="150">
-    <img src="mta-windows-operating-system-fundamentals-certified-2021.png" height="150">
-    <img src="mta-windows-server-administration-fundamentals-certified-2021.png" height="150">
-    <img src="microsoft-365-certified-fundamentals.png" height="150">
+    <img src="mta-introduction-to-programming-using-python-certified-2021.png" height="100">
+    <img src="mta-windows-operating-system-fundamentals-certified-2021.png" height="100">
+    <img src="mta-windows-server-administration-fundamentals-certified-2021.png" height="100">
+    <img src="microsoft-365-certified-fundamentals.png" height="100">
 </p>
     
 <h2 align="center">Github Hosted Projects</h2>
