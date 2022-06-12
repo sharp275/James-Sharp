@@ -1,4 +1,3 @@
-<h1 align="center">James Sharp</h1>
 <p align="center">Seattle, WA</p>
 <p align="center">Phone: 206-607-9118</p>
 <p align="center">Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a></p>
