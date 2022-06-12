@@ -92,4 +92,4 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 </p>
 <h2 align="center">Education</h2>
 
-<p>I'm hosted with GitHub Pages.</p>
+<p></p>
