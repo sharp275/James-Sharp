@@ -54,7 +54,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     </a>
 </p>
     
-<h2 align="center">Other Certifcations</h2>
+<h2 align="center">Microsoft Certifcations</h2>
 
 <p align="center">
     <a href="https://www.credly.com/badges/9dea6eff-6557-4581-812d-51e888e88aef/public_url">
