@@ -29,10 +29,10 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
         <img src="Aplus Logo Certified CE.png" alt="A+" height="100">
     </a>
     <a href="https://www.credly.com/badges/e194666f-2ca4-45d8-a967-57e7e7c022b7/public_url">
-        <img src="NetworkPlus Logo Certified CE.png" alt="Network+"height="100">
+        <img src="NetworkPlus Logo Certified CE.png" alt="Network+" height="100">
     </a>
     <a href="https://www.credly.com/badges/2511bdc3-5079-42b1-8239-b4e1521ab5ac/public_url">
-        <img src="SecurityPlus Logo Certified CE.png" alt="Security+"height="100">
+        <img src="SecurityPlus Logo Certified CE.png" alt="Security+" height="100">
     </a>
     <a href="https://www.credly.com/badges/0821a224-95d6-450c-8d2b-3ca5fc86973e/public_url">
         <img src="Linux+ ce certified logo.png" alt="Linux+" height="100">
