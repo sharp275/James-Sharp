@@ -88,7 +88,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 
 <h3 align="center">IoT Project</h3>
 <p align="center">
-<a href="https://sharp275.github.io/Public-Environmental-Monitor/">Home Envorimnetal Monitor with Raspberry Pi, InfluxDB, and TagoIO</a>
+<a href="https://sharp275.github.io/Public-Environmental-Monitor/">Home Environmental Monitor with Raspberry Pi, InfluxDB, and TagoIO</a>
 </p>
 <h2 align="center">Education</h2>
 
