@@ -73,7 +73,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     
 <h2 align="center">Github Hosted Projects</h2>
 <h3 align="center">Amazon Web Services</h3>
-<p align="center">
+<p align="left">
 <a href="https://sharp275.github.io/WCL-Challenge-One/">Configuring an application load balancer with path-based routing</a>
 <br>
 <br>
@@ -90,7 +90,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 </p>
 
 <h3 align="center">IoT Project</h3>
-<p align="center">
+<p align="left">
 <a href="https://sharp275.github.io/Public-Environmental-Monitor/">Home Environmental Monitor with Raspberry Pi, InfluxDB, and TagoIO</a>
 </p>
 <h2 align="center">Education</h2>
