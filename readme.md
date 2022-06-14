@@ -84,6 +84,9 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 <br>
 <br>
 <a href="https://sharp275.github.io/WCL-Cloud-Challenge-Four/">Setup a VPC with public and private subnets and a NAT gateway for the private subnet</a>
+<br>
+<br>
+<a href="https://sharp275.github.io/WCL-Cloud-Challenge-Five/">Setup a static website using AWS S3</a>
 </p>
 
 <h3 align="center">IoT Project</h3>
