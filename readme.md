@@ -87,6 +87,9 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 <br>
 <br>
 <a href="https://sharp275.github.io/WCL-Cloud-Challenge-Five/">Setup a static website using AWS S3</a>
+<br>
+<br>
+<a href="https://sharp275.github.io/WCL-Cloud-Challenge-Six/">Configure SNS Email Notification on S3 Bucket Event</a>    
 </p>
 
 <h3 align="center">IoT Project</h3>
