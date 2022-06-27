@@ -97,4 +97,6 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 </p>
 <h2 align="center">Education</h2>
 
-<p></p>
+<p>ATS, Information Technology (4.0 GPA), Eastern Gateway Community College, Steubenville, Ohio, December 2021<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Graduated Summa Cum Laude
+</p>
