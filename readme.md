@@ -97,7 +97,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 </p>
 
 <p align="left">
-<a href="https://sharp275.github.io/TM-AC1900-to-RT-AC68U/">Converting a Asus TM-AC1900 to RT-AC68U</a>
+<a href="https://sharp275.github.io/TM-AC1900-to-RT-AC68U/">Converting an Asus TM-AC1900 to RT-AC68U</a>
 </p>
 
 <h2 align="center">Education</h2>
