@@ -57,7 +57,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 
 <p align="center">
     <a href="https://www.credly.com/badges/c8c4945d-77fa-4615-83a7-a3060e27237c/public_url">
-        <img src="microsoft-certified-azure-iot-developer-specialty" alt="Azure IoT Developer" height="100">
+        <img src="microsoft-certified-azure-iot-developer-specialty.png" alt="Azure IoT Developer" height="100">
     </a>
     <a href="https://www.credly.com/badges/9dea6eff-6557-4581-812d-51e888e88aef/public_url">
         <img src="mta-introduction-to-programming-using-python-certified-2021.png" alt="Python Programming" height="100">
