@@ -56,6 +56,9 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 <h2 align="center">Microsoft Certifcations</h2>
 
 <p align="center">
+    <a href="https://www.credly.com/badges/c8c4945d-77fa-4615-83a7-a3060e27237c/public_url">
+        <img src="microsoft-certified-azure-iot-developer-specialty" alt="Azure IoT Developer" height="100">
+    </a>
     <a href="https://www.credly.com/badges/9dea6eff-6557-4581-812d-51e888e88aef/public_url">
         <img src="mta-introduction-to-programming-using-python-certified-2021.png" alt="Python Programming" height="100">
     </a>
@@ -91,10 +94,15 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 <a href="https://sharp275.github.io/WCL-Cloud-Challenge-Six/">Configure SNS Email Notification on S3 Bucket Event</a>    
 </p>
 
-<h3 align="center">IoT Project</h3>
+<h3 align="center">IoT Projects and Home Lab</h3>
 <p align="left">
 <a href="https://sharp275.github.io/Public-Environmental-Monitor/">Home Environmental Monitor with Raspberry Pi, InfluxDB, and TagoIO</a>
 </p>
+
+<p align="left">
+<a href="https://sharp275.github.io/TM-AC1900-to-RT-AC68U/">Converting an Asus TM-AC1900 to RT-AC68U</a>
+</p>
+
 <h2 align="center">Education</h2>
 
 <p>ATS, Information Technology (4.0 GPA), Eastern Gateway Community College, Steubenville, Ohio, December 2021<br>
