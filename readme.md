@@ -10,6 +10,9 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     <a href="https://www.credly.com/badges/ce879742-9be4-43aa-9f1d-3c3202830fe6/public_url">
         <img src="azure-administrator-associate-600x600 (1).png" alt="Azure Administrator Associate" height="100">
     </a>
+    <a href="https://www.credly.com/badges/c8c4945d-77fa-4615-83a7-a3060e27237c/public_url">
+        <img src="microsoft-certified-azure-iot-developer-specialty.png" alt="Azure IoT Developer" height="100">
+    </a>
     <a href="https://www.credential.net/3b5b5c5d-7d1b-4bf6-800c-643faff9e606">
         <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50029287" alt="Google Cloud Associate Cloud Engineer" height="100">
     </a>
@@ -56,9 +59,6 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 <h2 align="center">Microsoft Certifcations</h2>
 
 <p align="center">
-    <a href="https://www.credly.com/badges/c8c4945d-77fa-4615-83a7-a3060e27237c/public_url">
-        <img src="microsoft-certified-azure-iot-developer-specialty.png" alt="Azure IoT Developer" height="100">
-    </a>
     <a href="https://www.credly.com/badges/9dea6eff-6557-4581-812d-51e888e88aef/public_url">
         <img src="mta-introduction-to-programming-using-python-certified-2021.png" alt="Python Programming" height="100">
     </a>
