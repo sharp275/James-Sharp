@@ -4,7 +4,26 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 
 <hr size="5">
 
-<h2 align="center">Cloud Certifcations</h2>
+<h2 align="center">AWS Certifcations</h2>
+
+<p align="center">
+    <a href="https://www.credly.com/badges/a5e4c3cd-d445-46ce-ab42-a16d105fab60/public_url">
+        <img src="aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" height="100">
+    </a>
+    <a href="https://www.credly.com/badges/a176fbca-13ba-4173-b730-c8d4cac216b7/public_url">
+        <img src="aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator Associate" height="100">
+    </a>
+</p>
+
+<h2 align="center">Google Certifcations</h2>
+
+<p align="center">
+    <a href="https://www.credential.net/3b5b5c5d-7d1b-4bf6-800c-643faff9e606">
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50029287" alt="Google Cloud Associate Cloud Engineer" height="100">
+    </a>
+</p>
+
+<h2 align="center">Microsoft Certifcations</h2>
 
 <p align="center">
     <a href="https://www.credly.com/badges/ce879742-9be4-43aa-9f1d-3c3202830fe6/public_url">
@@ -13,15 +32,22 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     <a href="https://www.credly.com/badges/c8c4945d-77fa-4615-83a7-a3060e27237c/public_url">
         <img src="microsoft-certified-azure-iot-developer-specialty.png" alt="Azure IoT Developer" height="100">
     </a>
-    <a href="https://www.credential.net/3b5b5c5d-7d1b-4bf6-800c-643faff9e606">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50029287" alt="Google Cloud Associate Cloud Engineer" height="100">
+    <a href="https://www.credly.com/badges/381399a8-bb84-4045-b009-91482ba9e2da/public_url">
+        <img src="microsoft-365-certified-fundamentals.png" alt="Microsoft 365 Fundamentals" height="100">
     </a>
-    <a href="https://www.credly.com/badges/a5e4c3cd-d445-46ce-ab42-a16d105fab60/public_url">
-        <img src="aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" height="100">
+</p>
+
+<p align="center">
+    <a href="https://www.credly.com/badges/9dea6eff-6557-4581-812d-51e888e88aef/public_url">
+        <img src="mta-introduction-to-programming-using-python-certified-2021.png" alt="Python Programming" height="100">
     </a>
-    <a href="https://www.credly.com/badges/a176fbca-13ba-4173-b730-c8d4cac216b7/public_url">
-        <img src="aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator Associate" height="100">
+    <a href="https://www.credly.com/badges/2d4ca1aa-037a-4206-b6ea-da79c7decf18/public_url">
+        <img src="mta-windows-operating-system-fundamentals-certified-2021.png" alt="Windows Operating System Fundamentals" height="100">
     </a>
+    <a href="https://www.credly.com/badges/6d85e4d9-0108-46ff-9e3c-ddb180dd036a/public_url">
+        <img src="mta-windows-server-administration-fundamentals-certified-2021.png" alt="Windows Server Administration Fundamentals" height="100">
+    </a>
+    
 </p>
 
 <h2 align="center">Juniper Certifcations</h2>
@@ -61,23 +87,6 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     </a>
     <a href="https://www.credly.com/badges/d7b8baf7-6ee5-49cf-9102-cd59d0fd7042/public_url">
         <img src="Infrastructure CompTIA Linux Network Professional -CLNP logo.jpg" alt="Infrastructure CompTIA Linux Network Professional" height="100">
-    </a>
-</p>
-    
-<h2 align="center">Microsoft Certifcations</h2>
-
-<p align="center">
-    <a href="https://www.credly.com/badges/9dea6eff-6557-4581-812d-51e888e88aef/public_url">
-        <img src="mta-introduction-to-programming-using-python-certified-2021.png" alt="Python Programming" height="100">
-    </a>
-    <a href="https://www.credly.com/badges/2d4ca1aa-037a-4206-b6ea-da79c7decf18/public_url">
-        <img src="mta-windows-operating-system-fundamentals-certified-2021.png" alt="Windows Operating System Fundamentals" height="100">
-    </a>
-    <a href="https://www.credly.com/badges/6d85e4d9-0108-46ff-9e3c-ddb180dd036a/public_url">
-        <img src="mta-windows-server-administration-fundamentals-certified-2021.png" alt="Windows Server Administration Fundamentals" height="100">
-    </a>
-    <a href="https://www.credly.com/badges/381399a8-bb84-4045-b009-91482ba9e2da/public_url">
-        <img src="microsoft-365-certified-fundamentals.png" alt="Microsoft 365 Fundamentals" height="100">
     </a>
 </p>
     
