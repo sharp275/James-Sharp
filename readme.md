@@ -24,6 +24,14 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     </a>
 </p>
 
+<h2 align="center">Juniper Certifcations</h2>
+
+<p align="center">
+    <a href="https://www.credly.com/badges/c3b7e0e3-18cf-4c1f-815a-6f605897a44c/public_url">
+        <img src="juniper-networks-certified-associate-junos-jncia-junos.png" alt="Juniper Networks Certified Associate, Junos (JNCIA-Junos)" height="100">
+    </a>
+</p>
+
 <h2 align="center">CompTIA Certifications</h2>
 
 <p align="center">
