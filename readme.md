@@ -127,6 +127,10 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 <a href="https://sharp275.github.io/TM-AC1900-to-RT-AC68U/">Converting an Asus TM-AC1900 to RT-AC68U</a>
 </p>
 
+<p align="left">
+<a href="https://sharp275.github.io/PiHole-PFSense-Redirect/">Forcing devices with hardcoded DNS servers to utilize a PiHole</a>
+</p>
+
 <h2 align="center">Education</h2>
 
 <p>ATS, Information Technology (4.0 GPA), Eastern Gateway Community College, Steubenville, Ohio, December 2021<br>
