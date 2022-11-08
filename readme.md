@@ -15,11 +15,14 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     </a>
 </p>
 
-<h2 align="center">Google Certifcations</h2>
+<h2 align="center">Google/Juniper Certifcations</h2>
 
 <p align="center">
     <a href="https://www.credential.net/3b5b5c5d-7d1b-4bf6-800c-643faff9e606">
         <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50029287" alt="Google Cloud Associate Cloud Engineer" height="100">
+    </a>
+    <a href="https://www.credly.com/badges/c3b7e0e3-18cf-4c1f-815a-6f605897a44c/public_url">
+        <img src="juniper-networks-certified-associate-junos-jncia-junos.png" alt="Juniper Networks Certified Associate, Junos (JNCIA-Junos)" height="100">
     </a>
 </p>
 
@@ -48,14 +51,6 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
         <img src="mta-windows-server-administration-fundamentals-certified-2021.png" alt="Windows Server Administration Fundamentals" height="100">
     </a>
     
-</p>
-
-<h2 align="center">Juniper Certifcations</h2>
-
-<p align="center">
-    <a href="https://www.credly.com/badges/c3b7e0e3-18cf-4c1f-815a-6f605897a44c/public_url">
-        <img src="juniper-networks-certified-associate-junos-jncia-junos.png" alt="Juniper Networks Certified Associate, Junos (JNCIA-Junos)" height="100">
-    </a>
 </p>
 
 <h2 align="center">CompTIA Certifications</h2>
