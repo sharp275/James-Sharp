@@ -68,7 +68,6 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     <a href="https://www.credly.com/badges/0821a224-95d6-450c-8d2b-3ca5fc86973e/public_url">
         <img src="Linux+ ce certified logo.png" alt="Linux+" height="100">
     </a>
-    </a>
     <a href="https://www.credly.com/badges/266ce2d2-f93c-4c8f-b66b-f92ebd19e360/public_url">
         <img src="CySA.png" alt="Linux+" height="100">
     </a>
