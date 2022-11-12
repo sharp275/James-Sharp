@@ -86,7 +86,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     <a href="https://www.credly.com/badges/d7b8baf7-6ee5-49cf-9102-cd59d0fd7042/public_url">
         <img src="Infrastructure CompTIA Linux Network Professional -CLNP logo.jpg" alt="Infrastructure CompTIA Linux Network Professional" height="100">
     </a>
-    <a href="https://www.credly.com/badges/d7b8baf7-6ee5-49cf-9102-cd59d0fd7042/public_url">
+    <a href="https://www.credly.com/badges/243d12e5-30d6-411f-99de-aa030cfa9497/public_url">
         <img src="csap.png" alt="CompTIA Security Analytics Professional" height="100">
     </a>
 </p>
