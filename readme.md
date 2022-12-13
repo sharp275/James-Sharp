@@ -29,14 +29,20 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 <h2 align="center">Microsoft Certifcations</h2>
 
 <p align="center">
-    <a href="https://www.credly.com/badges/ce879742-9be4-43aa-9f1d-3c3202830fe6/public_url">
-        <img src="azure-administrator-associate-600x600 (1).png" alt="Azure Administrator Associate" height="100">
+    <a href="https://www.credly.com/badges/b7fbbc17-fea6-40c9-9957-5ce2eee3a3a3/public_url">
+        <img src="microsoft-certified-azure-solutions-architect-expert.png" alt="Azure Solutions Architect Expert" height="100">
     </a>
     <a href="https://www.credly.com/badges/c8c4945d-77fa-4615-83a7-a3060e27237c/public_url">
         <img src="microsoft-certified-azure-iot-developer-specialty.png" alt="Azure IoT Developer" height="100">
     </a>
+    <a href="https://www.credly.com/badges/ce879742-9be4-43aa-9f1d-3c3202830fe6/public_url">
+        <img src="azure-administrator-associate-600x600 (1).png" alt="Azure Administrator Associate" height="100">
+    </a>
     <a href="https://www.credly.com/badges/381399a8-bb84-4045-b009-91482ba9e2da/public_url">
         <img src="microsoft-365-certified-fundamentals.png" alt="Microsoft 365 Fundamentals" height="100">
+    </a>
+    <a href="https://www.credly.com/badges/1eff0013-0fe7-4449-95dc-4fa90aab875b/public_url">
+        <img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Fundamentals" height="100">
     </a>
 </p>
 
@@ -44,13 +50,18 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     <a href="https://www.credly.com/badges/9dea6eff-6557-4581-812d-51e888e88aef/public_url">
         <img src="mta-introduction-to-programming-using-python-certified-2021.png" alt="Python Programming" height="100">
     </a>
-    <a href="https://www.credly.com/badges/2d4ca1aa-037a-4206-b6ea-da79c7decf18/public_url">
-        <img src="mta-windows-operating-system-fundamentals-certified-2021.png" alt="Windows Operating System Fundamentals" height="100">
-    </a>
     <a href="https://www.credly.com/badges/6d85e4d9-0108-46ff-9e3c-ddb180dd036a/public_url">
         <img src="mta-windows-server-administration-fundamentals-certified-2021.png" alt="Windows Server Administration Fundamentals" height="100">
     </a>
-    
+    <a href="https://www.credly.com/badges/2d4ca1aa-037a-4206-b6ea-da79c7decf18/public_url">
+        <img src="mta-windows-operating-system-fundamentals-certified-2021.png" alt="Windows Operating System Fundamentals" height="100">
+    </a>
+    <a href="https://www.credly.com/badges/3cb40146-a3a5-4e4d-9a15-d0c0883e264a/public_url">
+        <img src="mta-security-fundamentals-certified-2021.png" alt="Security Fundamentals" height="100">
+    </a>
+    <a href="https://www.credly.com/badges/4bfb1dd2-ad0f-4b7f-9faa-951407a28652/public_url">
+        <img src="mta-networking-fundamentals-certified-2021.png" alt="Networking Fundamentals" height="100">
+    </a>
 </p>
 
 <h2 align="center">CompTIA Certifications</h2>
