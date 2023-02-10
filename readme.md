@@ -38,8 +38,8 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     <a href="https://www.credly.com/badges/ce879742-9be4-43aa-9f1d-3c3202830fe6/public_url">
         <img src="azure-administrator-associate-600x600 (1).png" alt="Azure Administrator Associate" height="100">
     </a>
-    <a href="https://www.credly.com/badges/1eff0013-0fe7-4449-95dc-4fa90aab875b/public_url">
-        <img src="microsoft-certified-azure-ai-fundamentals.png" alt="Azure AI Fundamentals" height="100">
+    <a href="https://www.credly.com/badges/ae1267a7-5588-425c-afcc-245f3e23acf4/public_url">
+        <img src="microsoft-365-certified-teams-administrator-associate.png" height="100">
     </a>
     <a href="https://www.credly.com/badges/381399a8-bb84-4045-b009-91482ba9e2da/public_url">
         <img src="microsoft-365-certified-fundamentals.png" alt="Microsoft 365 Fundamentals" height="100">
