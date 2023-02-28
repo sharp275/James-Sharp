@@ -138,7 +138,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 
 <h2 align="center">Network Diagram</h2>
 <p align="center">
-<img src="nd.png">
+<img src="nd.png" width="800">
 </p>
 
 <h2 align="center">Education</h2>
