@@ -141,10 +141,6 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 <img src="nd.png" width="600">
 </p>
 
-<p align="center">
-![Internet Speed](https://sharp275.grafana.net/d-solo/7y2FBBa4k/internet-speed?orgId=1&panelId=4)
-</p>
-
 <h2 align="center">Education</h2>
 
 <p>ATS, Information Technology (4.0 GPA), Eastern Gateway Community College, Steubenville, Ohio, December 2021<br>
