@@ -141,7 +141,9 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 <img src="nd.png" width="600">
 </p>
 
-<img src="https://sharp275.grafana.net/d/7y2FBBa4k/internet-speed?orgId=1&viewPanel=4">
+<p align="center">
+<iframe src="https://sharp275.grafana.net/d-solo/7y2FBBa4k/internet-speed?orgId=1&panelId=4" width="450" height="200" frameborder="0"></iframe>
+</p>
 
 <h2 align="center">Education</h2>
 
