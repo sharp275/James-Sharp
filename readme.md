@@ -142,7 +142,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 </p>
 
 <p align="center">
-<img src="https://sharp275.github.io/James-Sharp/embed.html">
+https://sharp275.github.io/James-Sharp/embed.html
 </p>
 
 <h2 align="center">Education</h2>
