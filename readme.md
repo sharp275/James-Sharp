@@ -142,7 +142,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 </p>
 
 <p align="center">
-<iframe src="https://sharp275.grafana.net/d-solo/7y2FBBa4k/internet-speed?orgId=1&panelId=4" width="450" height="200" frameborder="0"></iframe>
+<img src="https://sharp275.github.io/James-Sharp/embed.html">
 </p>
 
 <h2 align="center">Education</h2>
