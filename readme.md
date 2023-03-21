@@ -142,11 +142,11 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 
 <h2 align="center">Download Speeds</h2>
 
-<<iframe width="400" height="300" src="https://embed.tago.io?widget=6419f03e88467d0009470779&dashboard=6419eac431ab190009366e15&token=e264f436-e542-4198-8eda-bde79f2f244c" frameborder="0" allowfullscreen />
+<<iframe width="600" height="300" src="https://embed.tago.io?widget=6419f03e88467d0009470779&dashboard=6419eac431ab190009366e15&token=e264f436-e542-4198-8eda-bde79f2f244c" frameborder="0" allowfullscreen />
 
 <h2 align="center">Upload Speeds</h2>
 
-<iframe width="400" height="300" src="https://embed.tago.io?widget=6419f0ab31ab19000936fc1a&dashboard=6419eac431ab190009366e15&token=810a2c3c-46c7-4fc3-aa24-aa8c7fb9a805" frameborder="0" allowfullscreen />
+<iframe width="600" height="300" src="https://embed.tago.io?widget=6419f0ab31ab19000936fc1a&dashboard=6419eac431ab190009366e15&token=810a2c3c-46c7-4fc3-aa24-aa8c7fb9a805" frameborder="0" allowfullscreen />
     
 <h2 align="center">Education</h2>
 
