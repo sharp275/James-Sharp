@@ -4,7 +4,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 
 <hr size="5">
 
-<h2 align="center">AWS Certifcations</h2>
+<h2 align="center">AWS Google/Juniper Certifcations</h2>
 
 <p align="center">
     <a href="https://www.credly.com/badges/a5e4c3cd-d445-46ce-ab42-a16d105fab60/public_url">
@@ -13,11 +13,6 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
     <a href="https://www.credly.com/badges/a176fbca-13ba-4173-b730-c8d4cac216b7/public_url">
         <img src="aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator Associate" height="100">
     </a>
-</p>
-
-<h2 align="center">Google/Juniper Certifcations</h2>
-
-<p align="center">
     <a href="https://www.credential.net/3b5b5c5d-7d1b-4bf6-800c-643faff9e606">
         <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50029287" alt="Google Cloud Associate Cloud Engineer" height="100">
     </a>
