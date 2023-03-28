@@ -4,7 +4,7 @@ Email: <a href="mailto:james.c.sharp@pm.me">james.c.sharp@pm.me</a>
 
 <hr size="5">
 
-<h2 align="center">AWS Google/Juniper Certifcations</h2>
+<h2 align="center">AWS/Google/Juniper Certifcations</h2>
 
 <p align="center">
     <a href="https://www.credly.com/badges/a5e4c3cd-d445-46ce-ab42-a16d105fab60/public_url">
